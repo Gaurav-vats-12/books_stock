@@ -1,32 +1,3 @@
-# BookStack
-
-[![GitHub release](https://img.shields.io/github/release/BookStackApp/BookStack.svg)](https://github.com/BookStackApp/BookStack/releases/latest)
-[![license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/BookStackApp/BookStack/blob/development/LICENSE)
-[![Crowdin](https://badges.crowdin.net/bookstack/localized.svg)](https://crowdin.com/project/bookstack)
-[![Build Status](https://github.com/BookStackApp/BookStack/workflows/test-php/badge.svg)](https://github.com/BookStackApp/BookStack/actions)
-[![Lint Status](https://github.com/BookStackApp/BookStack/workflows/lint-php/badge.svg)](https://github.com/BookStackApp/BookStack/actions)
-[![Maintainability](https://api.codeclimate.com/v1/badges/5551731994dd22fa1f4f/maintainability)](https://codeclimate.com/github/BookStackApp/BookStack/maintainability)
-
-[![Alternate Source](https://img.shields.io/static/v1?label=Alt+Source&message=Git&color=ef391a&logo=git)](https://source.bookstackapp.com/)
-[![Repo Stats](https://img.shields.io/static/v1?label=GitHub+project&message=stats&color=f27e3f)](https://gh-stats.bookstackapp.com/)
-[![Discord](https://img.shields.io/static/v1?label=Discord&message=chat&color=738adb&logo=discord)](https://discord.gg/ztkBqR2)
-[![Mastodon](https://img.shields.io/static/v1?label=Mastodon&message=@bookstack&color=595aff&logo=mastodon)](https://fosstodon.org/@bookstack)
-
-[![PeerTube](https://img.shields.io/static/v1?label=PeerTube&message=bookstack@foss.video&color=f2690d&logo=peertube)](https://foss.video/c/bookstack)
-[![YouTube](https://img.shields.io/static/v1?label=YouTube&message=bookstackapp&color=ff0000&logo=youtube)](https://www.youtube.com/bookstackapp)
-
-A platform for storing and organising information and documentation. Details for BookStack can be found on the official website at https://www.bookstackapp.com/.
-
-* [Installation Instructions](https://www.bookstackapp.com/docs/admin/installation)
-* [Documentation](https://www.bookstackapp.com/docs)
-* [Demo Instance](https://demo.bookstackapp.com)
-    * [Admin Login](https://demo.bookstackapp.com/login?email=admin@example.com&password=password)
-* [Screenshots](https://www.bookstackapp.com/#screenshots) 
-* [BookStack Blog](https://www.bookstackapp.com/blog)
-* [Issue List](https://github.com/BookStackApp/BookStack/issues)
-* [Discord Chat](https://discord.gg/ztkBqR2)
-* [Support Options](https://www.bookstackapp.com/support/)
-
 ## 📚 Project Definition
 
 BookStack is an opinionated documentation platform that provides a pleasant and simple out-of-the-box experience. New users to an instance should find the experience intuitive and only basic word-processing skills should be required to get involved in creating content on BookStack. The platform should provide advanced power features to those that desire it but they should not interfere with the core simple user experience.
